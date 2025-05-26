@@ -1,6 +1,6 @@
 # Heuristic-Evaluation-of-an-Existing-Website-or-App
-# Name:Pranav Krishna T
-# Reg No:212224040241
+# Name: KIRTHICK SHA R
+# Reg No:212224230124
 
 # Heuristic Evaluation of an Existing Website or App
 
